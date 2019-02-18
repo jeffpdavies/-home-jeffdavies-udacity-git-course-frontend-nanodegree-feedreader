@@ -40,7 +40,7 @@ The loadFeed() is asynchronous so that the test should run beforeEach() and done
 
 By calling `loadFeed(0, function(...))` the test load the first feed which contains initial entries for detection. 
 
-## Test Wuite "New Feed Selection"
+## Test Suite "New Feed Selection"
 There are more than one feed in the allFeeds. The loadFeed() function load specified feed with the id(index).
 
 The second feed content should be different from the first feed. So that by comparing the rendered HTML content, we can check if the program loads a different feed with the function instead the same one. 
