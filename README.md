@@ -1,7 +1,7 @@
 # Feed Reader Testing in Jasmine.js
 This is a project to test a feedReader code in Jasmine.js with jQuery to select DOM elements. 
 
-The project bode base is from Udacity which has contained the first test "RSS Feeds".
+The project code base is from Udacity which has contained the first test "RSS Feeds".
 
 # How to run the app locally
 
